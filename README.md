@@ -1,10 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=6b32af&height=200&text=Java%20Back-End%20Developer&fontSize=60)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojiapp&show_icons=true&theme=midnight-purple&locale=kr)](https://github.com/jojiapp/TIL)
+
 <a href="https://github.com/jojiapp/TIL">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=jojiapp&show_icons=true&theme=midnight-purple&locale=kr" alt="Anurag's GitHub stats" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojiapp&theme=midnight-purple&layout=compact&locale=kr" alt="Top Langs"/>
 </a>
-  <a href="https://github.com/jojiapp/TIL">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojiapp&theme=midnight-purple&layout=compact&locale=kr" alt="Top Langs" />
+
+<a href="https://solved.ac/jojiapp97">
+  <img height="180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jojiapp97" alt="Solved.ac프로필"/>
 </a>
 
 ---
