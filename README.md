@@ -71,8 +71,8 @@
 ![AWS RDS](https://img.shields.io/badge/-AWS%20RDS-4053D6)
 ![AWS Route53](https://img.shields.io/badge/-AWS%20Route53-FF9900)
 
-![AWS CodeBuild](https://img.shields.io/badge/-AWS%20CoddBuild-6DB33F)
-![AWS CodeDeploy](https://img.shields.io/badge/-AWS%20CoddDeploy-6DB33F?&)
+![AWS CodeBuild](https://img.shields.io/badge/-AWS%20CodeBuild-6DB33F)
+![AWS CodeDeploy](https://img.shields.io/badge/-AWS%20CodeDeploy-6DB33F?&)
 
 ### </> Front End
 
