@@ -37,6 +37,10 @@
 
 - 📧 **Email**: jojiapp@gmail.com
 
+### 📖 Study
+
+- [Modern Java in Action](https://github.com/Tianea2160/ModernJavaInActionStudy)
+
 ## 🔨 Skills
 
 ### ✨ Back End ✨
