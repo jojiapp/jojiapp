@@ -48,11 +48,13 @@
 **주로 사용하는 스택입니다.**
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring%20boot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F)
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?logo=spring%20security&logoColor=white)
 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?)
 ![QueryDSL](https://img.shields.io/badge/-QueryDSL-3E4348)
 
@@ -67,8 +69,6 @@
 ### ⚙️ DevOps
 
 **`AWS Pipeline`를 이용하여 `CI/CD` 구축 및 `Route 53`과 `ACM`을 통한 `SSH` 설정 작업을 할 수 있습니다.**
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900)
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?logo=Amazon%20S3&logoColor=white)
@@ -94,7 +94,6 @@
 ### 🛠 Tools
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FF0000?logo=intellij%20idea&logoColor=white)
-![DataGrip](https://img.shields.io/badge/-DataGrip-512BD4?logo=datagrip&logoColor=white)
 
 ---
 
