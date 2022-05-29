@@ -40,6 +40,7 @@
 ### 📖 Study
 
 - [Modern Java in Action](https://github.com/Tianea2160/ModernJavaInActionStudy)
+- [성능 및 코드 품질을 고려한 코드리뷰 방식 간단한 게시판 만들기](https://github.com/spring-React-blog/blog-server-jh)
 
 ## 🔨 Skills
 
