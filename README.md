@@ -36,6 +36,7 @@
 ### 🤝 Contact & Channel
 
 - 📧 **Email**: jojiapp@gmail.com
+- 📜 **Blog**: https://jojiapp.github.io
 
 ### 📖 Study
 
