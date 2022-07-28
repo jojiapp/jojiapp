@@ -24,14 +24,14 @@
 ### 🙇‍♂️ Introduction
 
 - 안녕하세요. 2년차 백엔드 개발자 조지헌 입니다.
-- 열심히 하는 것보다 꾸준하게 하는 것이 더 중요하다고 생각하여 `미라클 모닝`과 `1일 1커밋 운동`을 실천하고 있습니다.
 - `객체지향적인 설계`와 `클린 코드`에 관심이 많으며, `테스트 자동화`를 통해 견고한 애플리케이션을 만들기 위해 노력중입니다.
 - 항상 `why`를 던지고, 이게 최선인지 고민합니다.
 - 지식을 공유하고 토론하는 것을 즐기며 이를 위해 다양한 스터디 활동을 하고 있습니다.
 
 ### 💼 Experience
 
-- **TelePIX** - Back-End Software Engineer [2022-02 ~ 재직중]
+- **보맵** - Back-End Software Engineer [2022-07 - 재직중]
+- **TelePIX** - Back-End Software Engineer [2022-02 - 2022-07]
 - **Hexcon** - Back-End Software Engineer [2021-04 - 2022-01]
 
 ### 🤝 Contact & Channel
