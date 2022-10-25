@@ -41,8 +41,11 @@
 
 ### 📖 Study
 
-- [Modern Java in Action](https://github.com/Tianea2160/ModernJavaInActionStudy)
-- [성능 및 코드 품질을 고려한 코드리뷰 방식 간단한 게시판 만들기](https://github.com/spring-React-blog/blog-server-jh)
+- [TIL 스터디](https://www.notion.so/somsom1221/Today-I-Learned-Study-2d4e05685bdd4d33825de177f0699a13) - 진행중
+- [Clean Architecture](https://github.com/KEEP-GOING-STUDYING/CleanArchitecture) - 진행중
+- [Real MySQL](https://github.com/KEEP-GOING-STUDYING/RealMySQL) - 진행중
+- Clean Code - 진행중
+- [Modern Java in Action](https://github.com/Tianea2160/ModernJavaInActionStudy) - 완료
 
 ## 🔨 Skills
 
@@ -71,8 +74,6 @@
 
 ### ⚙️ DevOps
 
-**`AWS Pipeline`를 이용하여 `CI/CD` 구축 및 `Route 53`과 `ACM`을 통한 `SSH` 설정 작업을 할 수 있습니다.**
-
 ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900)
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?logo=Amazon%20S3&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/-AWS%20RDS-4053D6)
@@ -82,8 +83,6 @@
 ![AWS CodeDeploy](https://img.shields.io/badge/-AWS%20CodeDeploy-6DB33F?&)
 
 ### </> Front End
-
-**`React`와 `Next JS`는 간단하게 사용할 수 있습니다.**
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
