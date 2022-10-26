@@ -42,7 +42,9 @@
 ### 📖 Study
 
 - [TIL 스터디](https://www.notion.so/somsom1221/Today-I-Learned-Study-2d4e05685bdd4d33825de177f0699a13) - 진행중
+
 - [Clean Architecture](https://github.com/KEEP-GOING-STUDYING/CleanArchitecture) - 진행중
+- CI/CD Jenkins + Docker - 진행중
 - [Real MySQL](https://github.com/KEEP-GOING-STUDYING/RealMySQL) - 진행중
 - Clean Code - 진행중
 - [Modern Java in Action](https://github.com/Tianea2160/ModernJavaInActionStudy) - 완료
