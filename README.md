@@ -37,7 +37,8 @@
 ### 🤝 Contact & Channel
 
 - 📧 **Email**: jojiapp@gmail.com
-- 📜 **Blog**: https://jojiapp.github.io
+- 📜 **Blog**: https://medium.com/@jojiapp (미디엄으로 이전 중)
+    - 예전 블로그: https://jojiapp.github.io
 
 ### 📖 Study
 
