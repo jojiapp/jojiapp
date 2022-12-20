@@ -44,8 +44,10 @@
 
 - [TIL 스터디](https://www.notion.so/somsom1221/Today-I-Learned-Study-2d4e05685bdd4d33825de177f0699a13) - 2022-08-22 ~ ing [진행중]
 
+- [도메인 주도 개발 시작하기] 2022-12-27 ~ ing [예정]
+- [헤드퍼스트 디자인패턴] 2022-12-26 ~ ing [예정]
 - [Clean Architecture](https://github.com/KEEP-GOING-STUDYING/CleanArchitecture) - 2022-10-31 ~ ing [진행중]
-- [Real MySQL](https://github.com/KEEP-GOING-STUDYING/RealMySQL) - 2022.09.06 ~ ing [진행중]
+- [Real MySQL](https://github.com/KEEP-GOING-STUDYING/RealMySQL) - 2022.09.06 ~ 2022-12-20 [완료]
 - [Clean Code] - 2022-07-17 ~ 2022-11-06 [완료]
 - [Modern Java in Action](https://github.com/Tianea2160/ModernJavaInActionStudy) - 2022-04-19 ~ 2022-08-15 [완료]
 
