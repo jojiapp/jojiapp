@@ -46,7 +46,7 @@
 
 - [도메인 주도 개발 시작하기] 2022-12-27 ~ ing [예정]
 - [헤드퍼스트 디자인패턴] 2022-12-26 ~ ing [예정]
-- [Clean Architecture](https://github.com/KEEP-GOING-STUDYING/CleanArchitecture) - 2022-10-31 ~ 2022-12-21 [진행중]
+- [Clean Architecture](https://github.com/KEEP-GOING-STUDYING/CleanArchitecture) - 2022-10-31 ~ 2022-12-21 [완료]
 - [Real MySQL](https://github.com/KEEP-GOING-STUDYING/RealMySQL) - 2022.09.06 ~ 2022-12-20 [완료]
 - [Clean Code] - 2022-07-17 ~ 2022-11-06 [완료]
 - [Modern Java in Action](https://github.com/Tianea2160/ModernJavaInActionStudy) - 2022-04-19 ~ 2022-08-15 [완료]
